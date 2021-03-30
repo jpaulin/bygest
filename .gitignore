@@ -1,0 +1,2 @@
+# do not add (to git) the installed static library files
+node_modules
