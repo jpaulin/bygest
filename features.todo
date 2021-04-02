@@ -1,5 +1,14 @@
 Doing a 3D pool game with kind guidance from a dev.to Article
 
+Goals:
+  - Learn to code React with JSX format; style components graphically
+  - recycle code and think in Components
+  - learn to setup a React project
+  - "yarn" usage as well as other common CLI tools
+  - a bit of the package.json format for a React project 
+  - adding unit tests to React code
+  - producing a tangible React software project in less than a month
+
 As per article:
 https://dev.to/manan30/creating-a-rudimentary-pool-table-game-using-react-three-js-and-react-three-fiber-part-1-363l
 
@@ -13,9 +22,22 @@ https://dev.to/manan30/creating-a-rudimentary-pool-table-game-using-react-three-
  ✔ add instructions to how to run app (into README.md) @done (21-03-30 13:25)
  ✔ do the first push to git 'main' branch @done (21-03-30 12:04)
  
+ More learning:
+ ✔ learn using "props" in React for components (pass function parameters to components) @done (21-04-01 18:05)
+ ☐ learn to code event handlers in React (JSX/Javascript)
+ ☐ Styled Components in React https://malcoded.com/posts/react-component-style/
+ ☐ a CSS anchor smooth scroller (put under Laragon 'scroller')
+
+Learn using Bootstrap 4 icon fonts called 'iconic':
+  ✔ yarn add bootstrap-icons @done (21-04-01 17:58)
+  ☐ include the whole font file as an asset (CSS)
+  ☐ use a icon: proof by showing 
+  ☐ what is the naming convention for "iconic" font icons?
+
 Diverging from the 3D pool game concept onwards: 
 
- ☐ add basic touch gesture handler as in React code
+ ✔ add a test component: OKButton @done (21-03-30 17:40)
+ ☐ add basic touch (tap) handler, for mobile (to component)
  ☐ research gesture support on React and fiber (mobile UI)
  ☐ spike: a offline storage test (app data) in browser's web context: set, get
  ☐ spike: how to determine whether app has run once at least in web context: localStorage?
